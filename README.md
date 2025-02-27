@@ -1,45 +1,26 @@
-# weather_app
+# Weather App Lucas
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## Como executar o projeto
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
+### Instale as dependências
 
 ```sh
-npm install
+npm ci
 ```
 
-### Compile and Hot-Reload for Development
+### Para executar o servidor de desenvolvimento
 
 ```sh
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
+### Para executar os testes
 
 ```sh
 npm run test:unit
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+### Requisitos para rodar o projeto
 
-```sh
-npm run lint
-```
+- Nodejs, para este projeto foi usada a versão 18.19.11
