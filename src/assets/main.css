@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+* {
+    font-family: "Manrope", serif !important;
+    font-optical-sizing: auto !important;
+    font-style: normal !important;
+}
