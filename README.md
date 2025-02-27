@@ -3,21 +3,27 @@
 
 ## Como executar o projeto
 
+### Clone o projeto
+
+```
+git@github.com:lucasandr3/weather_app_front_lucas.git
+```
+
 ### Instale as dependências
 
-```sh
+```
 npm ci
 ```
 
 ### Para executar o servidor de desenvolvimento
 
-```sh
+```
 npm run dev
 ```
 
 ### Para executar os testes
 
-```sh
+```
 npm run test:unit
 ```
 
